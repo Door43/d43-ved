@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ved:home|Door43 (ved)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ved|d43-ved repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ved/archive/master.zip|d43-ved.zip]]
+
+**Recent Changes**
+{{changes>ns = ved}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ved|Ethnologue data]]
+
